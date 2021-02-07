@@ -316,7 +316,7 @@ ul.about-content{
 		height:400px;
 	}
  }
- @media screen and (min-width: 278px) and (max-width: 324px) {
+ @media screen and (min-width: 278px) and (max-width: 420px) {
 	 .about-right,.about-left{
 		 flex-basis: 100%;
 	 }
