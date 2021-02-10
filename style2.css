@@ -478,18 +478,13 @@ ul.about-content{
 #signup{
 	left: 125%;
 }
-@media screen and (min-width: 780px) and (max-width: 1048px){
-	.form-box{
-		top: 45%;
-		height: 425px;
-		width:385px;
-	}
-	header{
-		padding: 28px 100px;
-	}
-	header #image1{
-		margin-bottom: 10px;
-	}
+@media screen and (min-width: 1000px) and (max-width: 1090px){
+	 .form-box{
+		 height: 430px;
+	 }
+	 header #image1{
+		 height: 85%;
+	 }
 }
 @media screen and (min-width: 280px) and (max-width:700px){
 	header{
